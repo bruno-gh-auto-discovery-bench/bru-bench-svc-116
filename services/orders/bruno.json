@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "search-orders",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
